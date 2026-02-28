@@ -40,7 +40,7 @@ Success = the model must output **complete, standalone, compilable FAUST code**.
 ```
 
 **If Success is fast and impressive**
-- Enter this prompt on run2
+- Enter this prompt on run2 in a fresh session.
 ```
 Make a reverse delay with a unique twist in faust
 ```
