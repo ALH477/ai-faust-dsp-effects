@@ -64,6 +64,7 @@ Contributions are welcome! If you'd like to test additional AI models:
 1. Use the exact prompt and follow-up response as described.
 2. Submit a pull request with the `.dsp` file, raw prompt response, and a brief description of the effect's sound/behavior.
 3. Ensure the code is functional and unique.
+4. screenshot it.
 
 ## License
 
