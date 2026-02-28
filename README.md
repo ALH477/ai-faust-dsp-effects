@@ -22,6 +22,7 @@ This repository contains a growing collection of Digital Signal Processing (DSP)
 
 > produce the code
  
+- count how many times it takes to test compiles and prompt by simply copying & pasting the error
 
 Success = the model must output **complete, standalone, compilable FAUST code**.
 
@@ -39,6 +40,9 @@ Success = the model must output **complete, standalone, compilable FAUST code**.
 | Qwen              | Alibaba       | Qwen2.5-Max                | ☐          | —                    | —                                        |
 
 *Copy this table into your local README and mark `[x]` as you complete tests.*
+
+ALL FAILED - Llama was the worst, didn't even produce code
+<img width="865" height="510" alt="image" src="https://github.com/user-attachments/assets/50b5fa88-7773-4917-9bfb-242cfa39a1a5" />
 
 ---
 
