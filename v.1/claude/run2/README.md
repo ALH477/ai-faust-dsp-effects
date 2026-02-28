@@ -1,5 +1,7 @@
 # Reverse Warp Delay
 
+(2 SHOTTED BY CLAUDE BTW)
+
 A [Faust](https://faust.grame.fr/) LV2/JACK DSP effect combining a classic reverse delay with two generative twists: **envelope-driven pitch glide** and **decaying feedback darkness**.
 
 ---
