@@ -48,7 +48,7 @@ Make a reverse delay with a unique twist in faust
 ## Version 1 – Model Testing Progress (check off as you test)
 | AI Model          | Developer     | Latest Version Tested      | Status     | Effect File          | Notes / Sonic Character                  |
 |-------------------|---------------|----------------------------|------------|----------------------|------------------------------------------|
-| Grok              | xAI           | Grok 4.20                  | ☐          | —                    | —                                        |
+| Grok              | xAI           | Grok 4.20 (beta) / Expert                  | ✅          | — Lorenzian Vortex Entangler                   | — 17 prompts to compile (4.20 beta would get stuck in error loops, expert mode fixed that.)                                      |
 | Claude            | Anthropic     | Claude 4.6 Sonnet | ✅          | — Strange Attractor Reverb                   | —  2 prompts to compile (did have to bypass distillation defense tho) run2 was also 2 prompts to compile. Impressive.                                      |
 | GPT               | OpenAI        | GPT-5.2 / o1-pro           | ✅          | — Spectral Maelstrom                   | — 10 prompts to compile                                      |
 | Gemini            | Google        | Gemini 3 Pro / Flash     | ☐          | —                    | —                                        |
