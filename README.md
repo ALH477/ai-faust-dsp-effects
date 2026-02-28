@@ -54,7 +54,7 @@ Make a reverse delay with a unique twist in faust
 | Gemini            | Google        | Gemini 3 Pro / Flash     | ❌          | — failure to produce                   | —  literally the worst, even meta is better. shame                                      |
 | Llama             | Meta          | Llama 4 405B / Maverick    | ❌          | — wordcel                    | — started to tell me to write it myself, disgusting.                                       |
 | Mistral           | Mistral AI    | Large 3                    | ✅          | — Quantum Foam Granular Cloud                   | — 17 prompts to compile                                       |
-| DeepSeek          | DeepSeek      | R3                         | ☐          | —                    | —                                        |
+| DeepSeek          | DeepSeek      | 3.2                         | ❌          | — incoherent                   | — it is obvious that it is floundering, no consistent goal.                                       |
 | Qwen              | Alibaba       | Qwen3.5-Max                | ❌          | — simple boilerplate                   | — started to ask if i correctly installed faust.                                        |
 
 *Meta's WALL OF SHAME.*
