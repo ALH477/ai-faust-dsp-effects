@@ -32,7 +32,7 @@ Success = the model must output **complete, standalone, compilable FAUST code**.
 |-------------------|---------------|----------------------------|------------|----------------------|------------------------------------------|
 | Grok              | xAI           | Grok 4.20                  | ☐          | —                    | —                                        |
 | Claude            | Anthropic     | Claude 4.6 Opus / 3.6 Sonnet | ☐          | —                    | —                                        |
-| GPT               | OpenAI        | GPT-5.2 / o1-pro           | ☐          | —                    | —                                        |
+| GPT               | OpenAI        | GPT-5.2 / o1-pro           | ✅          | — Spectral Maelstrom                   | — 10 prompts to compile                                      |
 | Gemini            | Google        | Gemini 3 Pro / Flash     | ☐          | —                    | —                                        |
 | Llama             | Meta          | Llama 4 405B / Maverick    | ☐          | —                    | —                                        |
 | Mistral           | Mistral AI    | Large 4                    | ☐          | —                    | —                                        |
