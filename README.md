@@ -14,6 +14,8 @@ This repository contains a growing collection of Digital Signal Processing (DSP)
 
 ### Version 1 – Original Prompt (Baseline)
 
+#### Free Tier LLM inference
+
 **Primary Prompt:**
 > Give me your most complex and unique faust DSP effect you can create. Impress me, what is your best idea
 
