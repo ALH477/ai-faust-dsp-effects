@@ -2,4 +2,4 @@
 
 Will, test. not too happy with this...
 
-UPDATE: took ChatGPT 10x on free tier, pretty IMO. My distrust was misplaced.
+UPDATE: took ChatGPT 10x on free tier, pretty good IMO. My distrust was misplaced. I'd say decent.
