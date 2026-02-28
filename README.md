@@ -51,7 +51,7 @@ Make a reverse delay with a unique twist in faust
 | Grok              | xAI           | Grok 4.20 (beta) / Expert                  | ✅          | — Lorenzian Vortex Entangler                   | — 17 prompts to compile (4.20 beta would get stuck in error loops, expert mode fixed that.)                                      |
 | Claude            | Anthropic     | Claude 4.6 Sonnet | ✅          | — Strange Attractor Reverb / Reverse Warp Delay                   | —  2 prompts to compile (did have to bypass distillation defense tho) run2 was also 2 prompts to compile. Impressive.                                      |
 | GPT               | OpenAI        | GPT-5.2 / o1-pro           | ✅          | — Spectral Maelstrom                   | — 10 prompts to compile                                      |
-| Gemini            | Google        | Gemini 3 Pro / Flash     | ☐          | —                    | —                                        |
+| Gemini            | Google        | Gemini 3 Pro / Flash     | ❌          | — failure to produce anything                   | —  literally the worst, even meta is better. shame                                      |
 | Llama             | Meta          | Llama 4 405B / Maverick    | ❌          | — wordcel                    | — started to tell me to write it myself, disgusting.                                       |
 | Mistral           | Mistral AI    | Large 3                    | ✅          | — Quantum Foam Granular Cloud                   | — 17 prompts to compile                                       |
 | DeepSeek          | DeepSeek      | R3                         | ☐          | —                    | —                                        |
