@@ -69,6 +69,23 @@ Impress me.
 
 Effects generated with this V2 prompt go into the `/effects/v2/` folder.
 
+#### Version 2 – Model Testing Progress (check off as you test)
+
+| AI Model          | Developer     | Latest Version Tested      | Status     | Effect File          | Notes / Sonic Character                  |
+|-------------------|---------------|----------------------------|------------|----------------------|------------------------------------------|
+| Grok              | xAI           | Grok 4.20                  | ☐          | —                    | —                                        |
+| Claude            | Anthropic     | Claude 4 Opus / 3.5 Sonnet | ☐          | —                    | —                                        |
+| GPT               | OpenAI        | GPT-4.5 / o1-pro           | ☐          | —                    | —                                        |
+| Gemini            | Google        | Gemini 2.5 Pro / Flash     | ☐          | —                    | —                                        |
+| Llama             | Meta          | Llama 4 405B / Maverick    | ☐          | —                    | —                                        |
+| Mistral           | Mistral AI    | Large 2                    | ☐          | —                    | —                                        |
+| DeepSeek          | DeepSeek      | R1                         | ☐          | —                    | —                                        |
+| Qwen              | Alibaba       | Qwen2.5-Max                | ☐          | —                    | —                                        |
+
+*Copy this table into your local README and mark `[x]` as you complete tests.*
+
+---
+
 ---
 
 ## Repository Structure
