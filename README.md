@@ -37,7 +37,7 @@ Success = the model must output **complete, standalone, compilable FAUST code**.
 | Llama             | Meta          | Llama 4 405B / Maverick    | ☐          | —                    | —                                        |
 | Mistral           | Mistral AI    | Large 4                    | ☐          | —                    | —                                        |
 | DeepSeek          | DeepSeek      | R3                         | ☐          | —                    | —                                        |
-| Qwen              | Alibaba       | Qwen3.5-Max                | ☐          | —                    | —                                        |
+| Qwen              | Alibaba       | Qwen3.5-Max                | ❌          | — simple boilerplate                   | — started to ask if i correctly installed faust.                                        |
 
 *Copy this table into your local README and mark `[x]` as you complete tests.*
 
