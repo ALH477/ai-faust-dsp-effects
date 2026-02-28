@@ -58,7 +58,8 @@ Make a reverse delay with a unique twist in faust
 | Qwen              | Alibaba       | Qwen3.5-Max                | ❌          | — simple boilerplate                   | — started to ask if i correctly installed faust.                                        |
 
 # Winner is Claude 4.6 Sonnet!
-![](https://tenor.com/ttLBF9Ov7aQ.gif)
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/11d3d420-464e-40db-bf5d-2023568965a6" />
+
 
 *Meta's WALL OF SHAME.*
 
