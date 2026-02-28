@@ -57,7 +57,7 @@ Make a reverse delay with a unique twist in faust
 | DeepSeek          | DeepSeek      | R3                         | ☐          | —                    | —                                        |
 | Qwen              | Alibaba       | Qwen3.5-Max                | ❌          | — simple boilerplate                   | — started to ask if i correctly installed faust.                                        |
 
-*Copy this table into your local README and mark `[x]` as you complete tests.*
+*Meta's WALL OF SHAME.*
 
 <img width="244" height="936" alt="image" src="https://github.com/user-attachments/assets/9313e38d-704e-4fd5-8d10-bd2a099af60b" />
 
