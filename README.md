@@ -117,7 +117,7 @@ Effects generated with this V2 prompt go into the `/effects/v2/` folder.
 | AI Model          | Developer     | Latest Version Tested      | Status     | Effect File          | Notes / Sonic Character                  |
 |-------------------|---------------|----------------------------|------------|----------------------|------------------------------------------|
 | Grok              | xAI           | Grok 4.20                  | ☐          | —                    | —                                        |
-| Claude            | Anthropic     | Claude 4 Opus / 3.5 Sonnet | ☐          | —                    | —                                        |
+| Claude            | Anthropic     | Claude 4.6 Sonnet | ✅          | — MYCELIUM                   | — compiled at 3 prompts                                       |
 | GPT               | OpenAI        | GPT-4.5 / o1-pro           | ☐          | —                    | —                                        |
 | Gemini            | Google        | Gemini 2.5 Pro / Flash     | ☐          | —                    | —                                        |
 | Llama             | Meta          | Llama 4 405B / Maverick    | ☐          | —                    | —                                        |
