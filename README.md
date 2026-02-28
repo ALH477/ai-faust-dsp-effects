@@ -135,7 +135,3 @@ Every good effect helps build the definitive archive of AI-generated FAUST creat
 MIT © DeMoD LLC & ALH477
 
 Made with curiosity and a love of weird sounds.
-
-Just copy-paste the whole thing into your `README.md`. It’s ready to go live.
-
-Want any tweaks (different model list, folder names, extra columns, etc.)? Let me know and I’ll revise instantly! 🚀
