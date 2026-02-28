@@ -31,7 +31,7 @@ Success = the model must output **complete, standalone, compilable FAUST code**.
 | AI Model          | Developer     | Latest Version Tested      | Status     | Effect File          | Notes / Sonic Character                  |
 |-------------------|---------------|----------------------------|------------|----------------------|------------------------------------------|
 | Grok              | xAI           | Grok 4.20                  | ☐          | —                    | —                                        |
-| Claude            | Anthropic     | Claude 4.6 Opus / 3.6 Sonnet | ☐          | —                    | —                                        |
+| Claude            | Anthropic     | Claude 4.6 Sonnet | ✅          | — Strange Attractor Reverb                   | —  2 prompts to compile (did have to bypass distillation defense tho)                                      |
 | GPT               | OpenAI        | GPT-5.2 / o1-pro           | ✅          | — Spectral Maelstrom                   | — 10 prompts to compile                                      |
 | Gemini            | Google        | Gemini 3 Pro / Flash     | ☐          | —                    | —                                        |
 | Llama             | Meta          | Llama 4 405B / Maverick    | ❌          | — wordcel                    | — started to tell me to write it myself, disgusting.                                       |
