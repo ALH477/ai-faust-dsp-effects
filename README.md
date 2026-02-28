@@ -140,9 +140,6 @@ Effects generated with this V2 prompt go into the `/effects/v2/` folder.
 └── LICENSE
 ```
 
-## Installation & Usage
-
-(See original README – unchanged)
 
 ## Contributing
 
