@@ -34,7 +34,7 @@ Success = the model must output **complete, standalone, compilable FAUST code**.
 | Claude            | Anthropic     | Claude 4.6 Opus / 3.6 Sonnet | ☐          | —                    | —                                        |
 | GPT               | OpenAI        | GPT-5.2 / o1-pro           | ✅          | — Spectral Maelstrom                   | — 10 prompts to compile                                      |
 | Gemini            | Google        | Gemini 3 Pro / Flash     | ☐          | —                    | —                                        |
-| Llama             | Meta          | Llama 4 405B / Maverick    | ☐          | —                    | —                                        |
+| Llama             | Meta          | Llama 4 405B / Maverick    | ❌          | — wordcel                    | — started to tell me to write it myself, disgusting.                                       |
 | Mistral           | Mistral AI    | Large 3                    | ✅          | — Quantum Foam Granular Cloud                   | — 17 prompts to compile                                       |
 | DeepSeek          | DeepSeek      | R3                         | ☐          | —                    | —                                        |
 | Qwen              | Alibaba       | Qwen3.5-Max                | ❌          | — simple boilerplate                   | — started to ask if i correctly installed faust.                                        |
