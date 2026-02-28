@@ -28,6 +28,13 @@ This repository contains a growing collection of Digital Signal Processing (DSP)
 
 Success = the model must output **complete, standalone, compilable FAUST code**.
 
+***Produce a README***
+> make a readme with you as the author under MIT license. Are you proud of your work?
+
+**If Success is fast and impressive**
+enter this prompt on run2
+> Make a reverse delay with a unique twist in faust
+
 #### Version 1 – Model Testing Progress (check off as you test)
 
 | AI Model          | Developer     | Latest Version Tested      | Status     | Effect File          | Notes / Sonic Character                  |
