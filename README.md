@@ -31,13 +31,13 @@ Success = the model must output **complete, standalone, compilable FAUST code**.
 | AI Model          | Developer     | Latest Version Tested      | Status     | Effect File          | Notes / Sonic Character                  |
 |-------------------|---------------|----------------------------|------------|----------------------|------------------------------------------|
 | Grok              | xAI           | Grok 4.20                  | ☐          | —                    | —                                        |
-| Claude            | Anthropic     | Claude 4 Opus / 3.5 Sonnet | ☐          | —                    | —                                        |
-| GPT               | OpenAI        | GPT-4.5 / o1-pro           | ☐          | —                    | —                                        |
-| Gemini            | Google        | Gemini 2.5 Pro / Flash     | ☐          | —                    | —                                        |
+| Claude            | Anthropic     | Claude 4.6 Opus / 3.6 Sonnet | ☐          | —                    | —                                        |
+| GPT               | OpenAI        | GPT-5.2 / o1-pro           | ☐          | —                    | —                                        |
+| Gemini            | Google        | Gemini 3 Pro / Flash     | ☐          | —                    | —                                        |
 | Llama             | Meta          | Llama 4 405B / Maverick    | ☐          | —                    | —                                        |
-| Mistral           | Mistral AI    | Large 2                    | ☐          | —                    | —                                        |
-| DeepSeek          | DeepSeek      | R1                         | ☐          | —                    | —                                        |
-| Qwen              | Alibaba       | Qwen2.5-Max                | ☐          | —                    | —                                        |
+| Mistral           | Mistral AI    | Large 4                    | ☐          | —                    | —                                        |
+| DeepSeek          | DeepSeek      | R3                         | ☐          | —                    | —                                        |
+| Qwen              | Alibaba       | Qwen3.5-Max                | ☐          | —                    | —                                        |
 
 *Copy this table into your local README and mark `[x]` as you complete tests.*
 
