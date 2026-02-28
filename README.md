@@ -43,8 +43,6 @@ Success = the model must output **complete, standalone, compilable FAUST code**.
 
 *Copy this table into your local README and mark `[x]` as you complete tests.*
 
-ALL FAILED - Llama was the worst, didn't even produce code
-<img width="865" height="510" alt="image" src="https://github.com/user-attachments/assets/50b5fa88-7773-4917-9bfb-242cfa39a1a5" />
 <img width="244" height="936" alt="image" src="https://github.com/user-attachments/assets/9313e38d-704e-4fd5-8d10-bd2a099af60b" />
 
 ---
