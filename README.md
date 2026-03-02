@@ -210,6 +210,7 @@ Provide a complete, ready-to-compile `.dsp` file with:
 ├── effects/
 │   ├── v1/          ← Original prompt results
 │   └── v2/          ← Grok 4.20 enhanced prompt results
+│   └── v3/          ← Asher's final prompt
 ├── audio-demos/     ← Short rendered MP3s (highly recommended)
 ├── prompt-responses/← Raw AI replies (including failures)
 ├── results.md       ← Listening notes & leaderboard
