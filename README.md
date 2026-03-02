@@ -202,7 +202,7 @@ Provide a complete, ready-to-compile `.dsp` file with:
 ## EFFECT REQUEST
 
 - “A full vocal chain: heavy hall reverb + analog delay + light chorus + double-track ADT flutter”
-
+```
 ## Repository Structure
 
 ```
